@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Greener Ground
+  - Water Pools
+  - Forest Trees
+  - Rocky Ground
+  - Grass Paths
+  - Stones
+  - Fences
+  - Boundaries
+  - ActionUI
+  - PickUI
+  - PlacedBlock
+  - Tree
+  - PlayerWood
+  - PlayerStone
+  - PlayerCopper
+  - Coppers
+  - PlayerGunPowder
+  - PlayerApples
+  - NotificationUi
+  - Zombie
+  - GunHole
+  - Floor
+  - PlayerScore
+  - PlayerWave
+  - Zombies
+  - PlayerDetector
+  - Knife
+  - Melee Weapon
+  - Gun powders
+  - AddBulletsButton
+  - PlayerBullets
+  - Zombie Boss
+  - Zombie Cop
+  - Tutorial
+  - PlayerGunPowderUi
+  - Pop-upUi
+  - TasksWindow
+  - Task Title
+  - Task Description
+  - Water Tile
+  - Zombie Layer Increase Detector
+  - Player Range
+  - Player Visibility Detector
+  - Grass
+  - Pause Button To Return To Menu
+  - Object Visibility Detector
+  - Structures collider
+  - Canvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - ZombieObstacles
+  - BulletObstacles
+  - StopBullets
+  - DetectPlayer
+  - BuildingBlock
+  - Trees
+  - Knife
+  - Axe
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
